@@ -115,6 +115,26 @@ operation:
               - columnCounter: 18a0d7a2-3366-447b-a9ef-b74d534944c1
                 stepCounter: 0c977242-fe6c-4d4f-9c21-5797cf15ddf3
             transform: ""
+      - acceptedValues:
+          strictMatch: true
+          values: []
+        appliedColumnTests: {}
+        columnReference:
+          columnCounter: e479096c-87dc-468e-8387-5384210300ad
+          stepCounter: 09000495-8756-4d32-893a-e4028cec73d4
+        config: {}
+        dataType: ""
+        defaultValue: ""
+        description: ""
+        keyColumnType: None
+        name: frick
+        nullable: true
+        sourceColumnReferences:
+          - columnReferences:
+              - columnCounter: "0"
+                stepCounter: "0"
+            transform: ""
+        systemColumnType: None
     cteString: ""
     enabledColumnTestIDs: []
     sourceMapping:
